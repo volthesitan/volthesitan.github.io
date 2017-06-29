@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Volt.R.Hesitan</title>
+  <title>彭猫 の 部落格</title>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://volthesitan.github.io/"/>
+  <link href="https://www.zhihu.com/people/happlex/"/>
   <updated>2017-06-29T03:39:54.000Z</updated>
-  <id>http://volthesitan.github.io/</id>
+  <id>https://www.zhihu.com/people/happlex/</id>
   
   <author>
     <name>Volt.R.Hesitan</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://volthesitan.github.io/2017/06/29/hello-world/"/>
-    <id>http://volthesitan.github.io/2017/06/29/hello-world/</id>
+    <link href="https://www.zhihu.com/people/happlex/2017/06/29/hello-world/"/>
+    <id>https://www.zhihu.com/people/happlex/2017/06/29/hello-world/</id>
     <published>2017-06-29T03:39:54.000Z</published>
     <updated>2017-06-29T03:39:54.000Z</updated>
     
